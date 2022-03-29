@@ -1,0 +1,16 @@
+#container{
+    display: flex;
+    
+}
+
+
+
+
+
+
+.box{
+    border: 2px solid blue;
+    padding: 2opx;
+    height: 200px;
+    width: 200px;
+}

@@ -1,0 +1,36 @@
+/* .hh{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: blueviolet;
+    color: black;
+    height: 100px;
+    width: 100px;
+} */
+
+
+#container{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.card1{
+    height: 200px;
+    width: 200px;
+   border: 2px solid red;
+    background-color: aquamarine;
+    color: black;
+}
+/* .card2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid yellow;
+    background-color: aquamarine;
+    color: black;
+}
+.card3{
+    height: 200px;
+    width: 200px;
+    border: 2px solid yellow;
+    background-color: aquamarine;
+    color: black;
+} */
